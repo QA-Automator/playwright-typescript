@@ -8,15 +8,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/QA-Automator/Playwright-typescript.git"
+		"url": "git+https://github.com/QA-Automator/playwright-typescript.git"
 	},
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/QA-Automator/Playwright-typescript/issues"
+		"url": "https://github.com/QA-Automator/playwright-typescript/issues"
 	},
-	"homepage": "https://github.com/QA-Automator/Playwright-typescriptS#readme",
+	"homepage": "https://github.com/QA-Automator/playwright-typescriptS#readme",
 	"devDependencies": {
 		"@playwright/test": "^1.33.0",
 		"allure-commandline": "^2.22.0",
