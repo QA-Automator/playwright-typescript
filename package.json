@@ -1,0 +1,33 @@
+{
+	"name": "playwright-typescript",
+	"version": "1.0.0",
+	"description": "Playwright framework using typescript",
+	"main": "index.js",
+	"scripts": {
+		"prepare": "husky install"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/QA-Automator/Playwright-typescript.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/QA-Automator/Playwright-typescript/issues"
+	},
+	"homepage": "https://github.com/QA-Automator/Playwright-typescriptS#readme",
+	"devDependencies": {
+		"@playwright/test": "^1.33.0",
+		"allure-commandline": "^2.22.0",
+		"allure-playwright": "^2.2.1",
+		"husky": "^8.0.3",
+		"playwright-json-summary-reporter": "^1.0.0",
+		"playwright-slack-report": "^1.1.3",
+		"prettier": "2.8.8",
+		"typescript": "^5.0.4"
+	},
+	"dependencies": {
+		"dotenv": "^16.0.3"
+	}
+}
