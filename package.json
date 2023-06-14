@@ -19,7 +19,7 @@
 	"homepage": "https://github.com/QA-Automator/playwright-typescriptS#readme",
 	"devDependencies": {
 		"@playwright/test": "^1.33.0",
-		"allure-commandline": "^2.22.0",
+		"allure-commandline": "^2.22.2",
 		"allure-playwright": "^2.2.1",
 		"husky": "^8.0.3",
 		"playwright-json-summary-reporter": "^1.0.0",
