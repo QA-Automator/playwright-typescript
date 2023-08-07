@@ -20,7 +20,7 @@
 	"devDependencies": {
 		"@playwright/test": "^1.33.0",
 		"allure-commandline": "^2.22.0",
-		"allure-playwright": "^2.2.1",
+		"allure-playwright": "^2.5.0",
 		"husky": "^8.0.3",
 		"playwright-json-summary-reporter": "^1.0.0",
 		"playwright-slack-report": "^1.1.3",
